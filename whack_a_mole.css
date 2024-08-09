@@ -1,0 +1,21 @@
+.square {
+    width: 200px;
+    height: 200px;
+    border-color: black;
+    border-style: solid;
+
+}
+
+.grid {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-flow: row wrap;
+    width: 620px;
+    height: 620px;
+}
+
+.mole {
+    background-image: url('doodoo.png');
+    background-size: 200px;
+}
